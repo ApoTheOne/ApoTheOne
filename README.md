@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=ApoTheOne)](https://github.com/ApoTheOne/github-profile-trophy)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![ApoTheOne's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApoTheOne)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ApoTheOne/ApoTheOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
